@@ -5,6 +5,7 @@
   "main": "app.js",
   "license": "MIT",
   "author": "lunaticfriki",
+  "repository": "https://github.com/lunaticfriki/node-multiplication-tables",
   "scripts": {
     "dev": "node app"
   },
