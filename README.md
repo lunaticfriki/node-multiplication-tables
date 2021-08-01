@@ -24,3 +24,9 @@ yarn dev -p (or --print)
 ```
 yarn dev -l (or --limit) 10
 ```
+
+## To install dependencies
+
+```
+yarn install
+```
