@@ -1,0 +1,16 @@
+{
+  "name": "03-basic-node",
+  "version": "0.0.1",
+  "description": "A simple multiplication table",
+  "main": "app.js",
+  "license": "MIT",
+  "author": "lunaticfriki",
+  "scripts": {
+    "dev": "node app"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {}
+}
